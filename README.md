@@ -148,37 +148,6 @@ A collection of solved LeetCode problems maintained as part of my regular algori
 
 ---
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shruthimogilicharla&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Shruthi's GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruthimogilicharla&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=shruthimogilicharla&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=shruthimogilicharla&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"
-    alt="GitHub Trophies"
-  />
-</p>
-
-
 ## Current Focus
 
 ```text
